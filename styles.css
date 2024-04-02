@@ -1,0 +1,47 @@
+.header-container {
+    background-color: #1bd4cb;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  .option-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #41ab1a;
+    border-radius: 5px;
+    background-color: #961772;
+  }
+  
+
+  #type-dropdown {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+
+  #submit-button {
+    background-color: #8e14ba;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  .card-container {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+
+  .card-container li {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #2169bc;
+    border-radius: 5px;
+    background-color: #1d1f70;
+  }
+  
+ 
+  
