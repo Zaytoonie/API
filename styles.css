@@ -8,9 +8,9 @@
   .option-container {
     margin: 20px auto;
     padding: 20px;
-    border: 1px solid #41ab1a;
+    border: 1px solid #ffffff;
     border-radius: 5px;
-    background-color: #961772;
+    background-color: #1bd4cb;
   }
   
 
@@ -21,7 +21,7 @@
   
 
   #submit-button {
-    background-color: #8e14ba;
+    background-color: #ff95de;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -38,9 +38,9 @@
   .card-container li {
     margin-bottom: 5px;
     padding: 10px;
-    border: 1px solid #2169bc;
+    border: 1px solid #ffffff;
     border-radius: 5px;
-    background-color: #1d1f70;
+    background-color: #ffffff;
   }
   
  
